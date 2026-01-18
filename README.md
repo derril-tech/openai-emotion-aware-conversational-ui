@@ -1,7 +1,6 @@
 # 🎭 EmotiSense
 **Emotion-Aware Conversational UI**
 
-🌐 **[View Live Application](https://openai-emotion-aware-conversational.vercel.app/)**
 
 > **A sophisticated chat interface that understands how you feel—detecting emotions from text, voice, and video, then adapting its responses and visual design in real-time to create a more empathetic, supportive conversation experience.** ✨
 
@@ -321,8 +320,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 <div align="center">
 
 **⭐ Star this repo if you find it useful!**
-
-[Live Demo](https://openai-emotion-aware-conversational.vercel.app/) • [Report Bug](https://github.com/derril-tech/openai-emotion-aware-conversational-ui-/issues) • [Request Feature](https://github.com/derril-tech/openai-emotion-aware-conversational-ui-/issues)
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
